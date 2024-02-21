@@ -1,5 +1,5 @@
 # BATTLESHIP FIELD VALIDATOR
-## Code Wars 3kyu Kata
+## CODE WARS 3KYU KATA
 ### TAREA
 Escribe un método que reciba un array 2D 10x10 con el tablero y la posición de los barcos y devuelva true si la distribución es válida o false si no lo es.
 ### REGLAS
